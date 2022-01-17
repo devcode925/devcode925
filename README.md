@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @devcode925
+- 👋 Hi, I’m devcode925
 - 👀 I’m interested in AI, Crypto, and solving business problems with the best technology available.
 - 🌱 I’m currently working on; 
   - Style GAN's 
