@@ -4,7 +4,7 @@
   - Style GAN's 
   - crypto mining
   - NFTs 
-  - Day job; 
+  - Day job, large retailer(billion + in sales); 
     - we are working on AI demand forecasting for ordering to reducing waste and and shortages.
     - robotic ordering
     - data mining for recommender engines
