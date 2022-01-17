@@ -7,7 +7,7 @@
   - Day job, large retailer(billion + in sales); 
     - we are working on AI demand forecasting for ordering to reducing waste and and shortages.
     - robotic ordering
-    - data mining/analytics/AI for recommender engines
+    - data mining/analytics/recommender engines
 - 📫 How to reach me devcode925@gmail.com
 
 <!---
