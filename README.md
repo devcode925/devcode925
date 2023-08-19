@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Chuck
-- 👀 I’m interested in Data engineering, machine learning/AI, Crypto, and solving business problems with the best technology available.
+- 👀 I’m interested in Data engineering, machine learning/AI, and solving business problems with the best technology available.
 - 🌱 I’m currently working on; 
   - Data engineering 
   - AI side projects(computer vision, NLP)
