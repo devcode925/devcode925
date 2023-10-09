@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Chuck
 - 👀 I’m interested in Data engineering, machine learning/AI, and solving business problems with the best technology available.
 - 🌱 I’m currently working on; 
-  - Data engineering 
+  - LLM's and vector databases, chatbots 
   - AI side projects(computer vision, NLP)
   - Day job, large retailer(billion + in sales); 
     - we are working on AI demand forecasting for ordering to reducing waste and and shortages.
